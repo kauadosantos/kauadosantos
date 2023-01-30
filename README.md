@@ -11,3 +11,8 @@ Olá eu sou o kauã dos Santos abaixo algumas informações do que estou estudan
 
 
 </div>
+<div style="display: inline-block;"><br>
+    <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+
+
+</div>
