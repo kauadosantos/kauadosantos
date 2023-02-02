@@ -16,6 +16,6 @@ Olá eu sou o kauã dos Santos abaixo algumas informações do que estou estudan
 
 </div>
 
-- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-santos-2b81a423b/)<br>
+
 
 
