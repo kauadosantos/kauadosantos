@@ -1,10 +1,10 @@
-Olá eu sou o kauã dos Santos abaixo algumas informações do que estou estudando👇 
+Olá sou kauã dos Santos e abaixo algumas informações e especializações da minha jornada na tecnologia. 👇 
 
 - Formado em curso tecnico em tecnologia da informação pelo (Senac).
 - Bacharelado em andamento em ciencia da computação pela (Uninove).
-- Conhecimentos HTML5-CSS, JAVASCRIPT e React js 📚.
-- Ainda não tenho nenhuma experiencia no ramo.
-- Estou a procura de aprender cada dia mais❤️.<br>
+- Experiencia como suporte ao cliente em 1 ano 7 meses (PRsistemas).
+- Conhecimentos HTML5-CSS, JAVASCRIPT, React js , Next JS , Node JS 📚.
+- Estou a procura de aprender a cada dia mais❤️.<br>
 - [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-santos-2b81a423b/)<br>
 
 
