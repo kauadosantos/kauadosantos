@@ -24,7 +24,7 @@ Olá sou kauã dos Santos e abaixo algumas informações e especializações da 
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 
-![kauadosantos GitHub stats](https://github-readme-stats.vercel.app/api?username=kauadosantos&show_icons=true&theme=radical)
+
 
 
 
