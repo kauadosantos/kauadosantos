@@ -13,8 +13,10 @@ Olá sou kauã dos Santos e abaixo algumas informações e especializações da 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauadosantos&show_icons=true&theme=radical" alt="Estatísticas do GitHub de kauadosantos">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauadosantos&theme=synthwave" alt="GitHub Streak">
 </p>
+
+
 
 <div style="display: inline-block;">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
